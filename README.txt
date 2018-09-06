@@ -1,3 +1,7 @@
+-- INSTALLATION --
+Enter in terminal "sudo apt‐get install liballegro4.2 liballegro4.2‐dev"
+
+
 -- FILES --
 "lem.c" contains the main faunction, tasks functions and a few user defined functions used
 "pthread.h and pthread.c" contain pthread related functions, structures and constants
