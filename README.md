@@ -1,11 +1,11 @@
 For a detailed explanation see "LEM_DeBenedetti.pdf" in the main folder  
   
   
-# -- INSTALLATION --  
+### -- INSTALLATION --  
 Enter in terminal "sudo apt‐get install liballegro4.2 liballegro4.2‐dev"
   
   
-# -- FILES --  
+### -- FILES --  
 "lem.c" contains the main faunction, tasks functions and a few user defined functions used  
 "pthread.h and pthread.c" contain pthread related functions, structures and constants  
 "allegro.h and allegro.c" contain allegro related functions, structures and constants  
@@ -14,16 +14,16 @@ Enter in terminal "sudo apt‐get install liballegro4.2 liballegro4.2‐dev"
 "CMakeLists.txt" is used to compile all the files, objects and the excutable  
   
   
-# -- COMPILING --  
+### -- COMPILING --  
 Move to the folder: /src
 Enter "Make -f CMakeLists.txt"
   
   
-# -- EXECUTION --  
+### -- EXECUTION --  
 After compiling enter "sudo ./lem 0"
   
   
-# -- SCENARIO SELECTION --  
+### -- SCENARIO SELECTION --  
 entire mission "sudo ./lem 0"  
 descent asteroid belt "sudo ./lem 1"  
 landing "sudo ./lem 2"  
