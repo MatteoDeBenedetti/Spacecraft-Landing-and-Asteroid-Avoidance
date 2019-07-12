@@ -15,7 +15,7 @@ Enter in terminal "sudo apt‐get install liballegro4.2 liballegro4.2‐dev"
   
   
 ### -- COMPILING --  
-Move to the folder: /src
+Move to the folder: /src  
 Enter "Make -f CMakeLists.txt"
   
   
