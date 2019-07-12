@@ -1,4 +1,4 @@
-#### For a detailed explanation see "LEM_DeBenedetti.pdf" in the main folder  
+#### For a detailed explanation see "LEM_DeBenedetti.pdf" 
   
   
 ### -- INSTALLATION --  
