@@ -1,3 +1,5 @@
+#### Simulation of a spacecraft descending on a planet, avoiding asteroids, landing and lastly docking with the orbiting service module. Both manual and autonomous control are possible.
+#### Application developed in C, using pthread forthe tasks definition and Allegro for the graphic interface.
 #### For a detailed explanation see "LEM_DeBenedetti.pdf" 
   
   
